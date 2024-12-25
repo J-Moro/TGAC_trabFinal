@@ -59,9 +59,14 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 
 - Julia - [moronunes.julia@gmail.com](mailto:moronunes.julia@gmail.com)
 - Project Link: [https://github.com/J-Moro/graph-coloring](https://github.com/J-Moro/graph-coloring)
+
+## Aknowledgements
+
+This project was made with help from Chat GPT and Github Copilot. In addition, the following pages were consulted as references:
+- 
