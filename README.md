@@ -63,5 +63,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:moronunes.julia@gmail.com)
-Project Link: [https://github.com/J-Moro/graph-coloring](https://github.com/J-Moro/graph-coloring)
+- Julia - [moronunes.julia@gmail.com](mailto:moronunes.julia@gmail.com)
+- Project Link: [https://github.com/J-Moro/graph-coloring](https://github.com/J-Moro/graph-coloring)
