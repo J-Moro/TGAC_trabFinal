@@ -4,9 +4,9 @@ This project implements an algorithm that takes a graph as input and colors it a
 
 ## Features
 
-- Accepts a graph as input in various formats (e.g., adjacency matrix, adjacency list).
+- Accepts a graph as input in the given format (specified below).
 - Implements an efficient algorithm to color the graph using at most six colors.
-- Provides visualization of the colored graph.
+- Provides a file with the color assigned to each node.
 
 ## Installation
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## Aknowledgements
 
 This project was made with help from Chat GPT and Github Copilot. In addition, the following pages were consulted as references:
-- 
+- https://rollbar.com/blog/how-to-fix-indexerror-list-assignment-index-out-of-range-python/
