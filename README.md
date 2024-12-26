@@ -12,6 +12,7 @@ This project implements an algorithm that takes a graph as input and colors it a
 
 Step-by-step instructions on how to get the development environment running.
 
+- Install Python version 3.13.1 (or higher)
 ```bash
 # Clone the repository
 git clone https://github.com/J-Moro/graph-coloring.git
@@ -22,6 +23,7 @@ cd graph-coloring
 # Install dependencies
 pip install -r requirements.txt
 ```
+Note: In this step of the project, there are no addtional libraries that require a separate installation. Therefore, 'requirements.txt' is empty, and you can skip this step.
 
 ## Usage
 
@@ -35,11 +37,10 @@ The nodes are numbered starting from 1 (up to 𝑛). The graph is simple, so edg
 To color a graph, run the following command:
 
 ```bash
-python main.py --input graph.txt --output
+python main.py --input 
 ```
 -   `--input`: Path to the input file containing the graph.
     
--   `--output`: (Optional) Path to save the visualization of the colored graph.
 
 ### Output
 The program outputs a list of colors assigned to each vertex.
@@ -70,3 +71,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 This project was made with help from Chat GPT and Github Copilot. In addition, the following pages were consulted as references:
 - https://rollbar.com/blog/how-to-fix-indexerror-list-assignment-index-out-of-range-python/
+- https://stackoverflow.com/questions/3940128/how-do-i-reverse-a-list-or-loop-over-it-backwards
+- https://stackoverflow.com/questions/10034377/truncating-a-string-in-python
